@@ -5,7 +5,7 @@ compatibility: Node.js 22+, npm, Git, MariaDB
 license: MIT
 metadata:
   author: Akenarin Komkoon
-  version: "3.0.0"
+  version: "4.0.0"
 ---
 
 # Project Onboarding Skill
