@@ -2,6 +2,10 @@
 
 สร้างฐานข้อมูลใหม่ ชื่อว่า ecommerce หรือใช้ฐานข้อมูลเดิมในไฟล์ .env.example ถ้ามีอยู่แล้ว และเพิ่มข้อมูลตัวอย่างไปที่ตาราง (ใช้เฉพาะการตั้งค่าครั้งแรก และเมื่อ user ถามเรื่อง database setup หรือ seed data เท่านั้้น)
 
+- ถ้ายังไม่มีฐานข้อมูล MariaDB ให้ติดตั้งโดยอ่านไฟล์ `assets/install_mariadb_with_docker.txt`
+
+- ถ้ายังไม่มีตารางให้สร้างตาราง โดยใช้ข้อมูลจากไฟล์ `assets/create_table_ecommerce.sql`
+
 ## Command for migrate
 
 ```bash

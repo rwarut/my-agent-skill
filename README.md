@@ -4,5 +4,5 @@
 - git-commit-guide
 - project-onboarding
 
-# How to user
-- npx skill add
+# How to use
+- npx skills add
